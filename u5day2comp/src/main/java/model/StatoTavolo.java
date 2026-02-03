@@ -1,0 +1,6 @@
+package model;
+
+public enum StatoTavolo {
+    LIBERO,
+    OCCUPATO
+}
