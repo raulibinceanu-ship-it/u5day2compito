@@ -1,6 +1,7 @@
-package repository;
+package it.pizzeria.u5day2comp.repository;
 
-import it.pizzeria.u5day2comp.model.Topping;
+
+import model.Topping;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

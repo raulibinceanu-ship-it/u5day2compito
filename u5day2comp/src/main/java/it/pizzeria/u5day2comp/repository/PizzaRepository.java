@@ -1,6 +1,6 @@
-package repository;
+package it.pizzeria.u5day2comp.repository;
 
-import it.pizzeria.u5day2comp.model.Pizza;
+import model.Pizza;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
